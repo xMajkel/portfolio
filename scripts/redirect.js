@@ -23,15 +23,15 @@ function redirect() {
     }
 
     if (browserLanguage=='pl') {
-        if (window.location.pathname == '/pl/'){
+        if (window.location.pathname == '/portfolio/pl/'){
             return
         }
-        window.location.href = '/pl/';
+        window.location.href = '/portfolio/pl/';
     } else {
-        if (window.location.pathname == '/en/'){
+        if (window.location.pathname == '/portfolio/en/'){
             return
         }
-        window.location.href = '/en/';
+        window.location.href = '/portfolio/en/';
     }
 }
 
