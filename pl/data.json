@@ -3,37 +3,37 @@
     {
         "title": "O mnie",
         "iconPath":"../icons/avatar.png",
-        "contentPath": "/pl/data/o_mnie.html"
+        "contentPath": "/portfolio/pl/data/o_mnie.html"
     },
     {
         "title": "Umiejętności",
         "iconPath":"../icons/skills.png",
-        "contentPath": "/pl/data/umiejetnosci.html"
+        "contentPath": "/portfolio/pl/data/umiejetnosci.html"
     },
     {
         "title": "Wykształcenie",
         "iconPath":"../icons/education.png",
-        "contentPath": "/pl/data/wyksztalcenie.html"
+        "contentPath": "/portfolio/pl/data/wyksztalcenie.html"
     },
     {
         "title": "Cube Game",
         "iconPath":"../icons/cubegame.png",
-        "contentPath": "/pl/data/cube_game.html"
+        "contentPath": "/portfolio/pl/data/cube_game.html"
     },
     {
         "title": "Chicken's Big Crush",
         "iconPath":"../icons/chicken.png",
-        "contentPath": "/pl/data/cbc.html"
+        "contentPath": "/portfolio/pl/data/cbc.html"
     },
     {
         "title": "Sneaker Tool",
         "iconPath":"../icons/sneaker.png",
-        "contentPath": "/pl/data/sneaker_tool.html"
+        "contentPath": "/portfolio/pl/data/sneaker_tool.html"
     },
     {
         "title": "Sneaker Tool v2",
         "iconPath":"../icons/sneaker.png",
-        "contentPath": "/pl/data/sneaker_tool_v2.html"
+        "contentPath": "/portfolio/pl/data/sneaker_tool_v2.html"
     }
     ],
     "links":[

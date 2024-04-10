@@ -8,32 +8,32 @@
     {
         "title": "Skillset",
         "iconPath":"../icons/skills.png",
-        "contentPath": "/en/data/skillset.html"
+        "contentPath": "/portfolio/en/data/skillset.html"
     },
     {
         "title": "Education",
         "iconPath":"../icons/education.png",
-        "contentPath": "/en/data/education.html"
+        "contentPath": "/portfolio/en/data/education.html"
     },
     {
         "title": "Cube Game",
         "iconPath":"../icons/cubegame.png",
-        "contentPath": "/en/data/cube_game.html"
+        "contentPath": "/portfolio/en/data/cube_game.html"
     },
     {
         "title": "Chicken's Big Crush",
         "iconPath":"../icons/chicken.png",
-        "contentPath": "/en/data/cbc.html"
+        "contentPath": "/portfolio/en/data/cbc.html"
     },
     {
         "title": "Sneaker Tool",
         "iconPath":"../icons/sneaker.png",
-        "contentPath": "/en/data/sneaker_tool.html"
+        "contentPath": "/portfolio/en/data/sneaker_tool.html"
     },
     {
         "title": "Sneaker Tool v2",
         "iconPath":"../icons/sneaker.png",
-        "contentPath": "/en/data/sneaker_tool_v2.html"
+        "contentPath": "/portfolio/en/data/sneaker_tool_v2.html"
     }
     ],
     "links":[
