@@ -3,7 +3,7 @@
     {
         "title": "About me",
         "iconPath":"../icons/avatar.png",
-        "contentPath": "/en/data/about_me.html"
+        "contentPath": "/portfolio/en/data/about_me.html"
     },
     {
         "title": "Skillset",
