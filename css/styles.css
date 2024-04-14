@@ -1,6 +1,9 @@
 body {
     font-family: system-ui;
-    background-color: #c7ae69;
+    /* background-color: #c7ae69; */
+    background-image: url("../images/background.svg");
+    background-size: cover;
+    background-position-y: 60%;
     color: #ffffff;
     margin: 0;
 }
@@ -261,7 +264,8 @@ body {
 }
 
 #icons li:hover,#links li:hover {
-    background-color: #6bbbfd67;
+    background-color: #ffffff67;
+    outline: solid 1px #d1d1d167;
     cursor: pointer;
 }
 
