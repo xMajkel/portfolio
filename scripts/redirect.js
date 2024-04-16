@@ -23,16 +23,8 @@ function redirect() {
     }
 
     if (browserLanguage=='pl') {
-        if (window.location.pathname == '/portfolio/pl/'){
-            return
-        }
-        window.location.href = '/portfolio/pl/';
+        window.location.href = './pl/';
     } else {
-        if (window.location.pathname == '/portfolio/en/'){
-            return
-        }
-        window.location.href = '/portfolio/en/';
+        window.location.href = './en/';
     }
 }
-
-window.onload = redirect;
